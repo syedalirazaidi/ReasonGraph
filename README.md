@@ -64,7 +64,7 @@
 
 ## ✏️ Todo & Help Wanted
 
-- [ ] Upload the demo vedio.
+- [ ] Upload the demo video.
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>
@@ -91,7 +91,7 @@
 ## 👀 Examples
 
 <details>
-<summary><strong>Demo vedio:</strong></summary>
+<summary><strong>Demo video:</strong></summary>
 
 </details>
 
